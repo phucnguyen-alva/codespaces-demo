@@ -25,11 +25,9 @@ main{
 }
 
 .masthead{
-    background-image: url('Images/bg.jpg');
     height: 200px;
     border-radius: 20px;
-    background-size: cover;
-    background-position: bottom;
+    background: no-repeat bottom/ cover  url('Images/bg.jpg');
 }
 img {
     width: 100%;
